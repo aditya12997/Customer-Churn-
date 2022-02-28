@@ -41,5 +41,6 @@ The duration of the contract to which the customers are tied down to plays a sig
 
 
 The churn amongst Senior Citizens is quite high given the ratio. Although most of our group are not senior citizens the churn rate in both the groups seems quite high and perhaps more justification is required for this purpose.
+
 <img width="714" alt="Screenshot 2022-02-23 at 6 56 57 PM" src="https://user-images.githubusercontent.com/54794852/155378578-b27862aa-431c-40c1-bbfd-15a57d50809b.png">
 
